@@ -7,6 +7,7 @@ Implemented Integral Sliding Mode control with Super Twisting Algorithm for cont
 # r3 (Rotation angle):
 ![Comparison_r3](https://user-images.githubusercontent.com/34472717/169354440-60f23966-d5d0-468b-bb9b-e50bb97795c0.jpg)
 ![Comparison_r3_zoomed](https://user-images.githubusercontent.com/34472717/169354441-95a01b43-abfe-4eae-8c9c-c72198eaae22.jpg)
+
 It can be seen that the Integral Sliding Mode Control (ISMC) with the Super-Twisting Algorithm (STA) reduces the chattering significantly.
 
 # Control Input u:
