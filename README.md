@@ -1,5 +1,7 @@
 # Robust-Control-of-Bevel-Tipped-Needle
 Implemented Integral Sliding Mode control with Super Twisting Algorithm for control of bevel-tipped needle in MATLAB simulation. (Paper implementation/validation)
+# Bevel-Tipped Needle Working:
+![con_3](https://user-images.githubusercontent.com/34472717/232597567-8e6dd843-4cb5-4948-ae72-ce5f0781b023.jpg)
 
 # r1 (y-offset from xz plane):
 ![Comparison_r1](https://user-images.githubusercontent.com/34472717/169354439-7e3bfd59-9e95-4137-b6e7-c9457d7f47df.jpg)
